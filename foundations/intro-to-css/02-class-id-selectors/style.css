@@ -1,14 +1,17 @@
 /* Add CSS Styling */
 
+/* class selector */
 .num1 {
     background-color: #FA2A55;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#id {
+/* id selector */
+#num2 {
     color: #00FFFF ;
     font-size: 36px;
 }
+
 
 
 
