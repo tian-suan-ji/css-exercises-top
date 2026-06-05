@@ -1,4 +1,3 @@
-/* Add CSS Styling */
 
 /* class selector */
 .num1 {
@@ -16,5 +15,12 @@
 .num1.num3 {
     font-size: 24px;
 }
+
+/* chaining with id and class selectors */
+.num3#num4 {
+    background-color: #00504B;
+    font-weight: bold;
+}
+
 
 
