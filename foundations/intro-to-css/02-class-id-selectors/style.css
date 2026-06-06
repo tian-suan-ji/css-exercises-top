@@ -1,8 +1,13 @@
 
 /* class selector */
-.num1 {
+.odd {
     background-color: #FA2A55;
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+
+.font-adjustment {
+    font-size: 24px;
 }
 
 /* id selector */
@@ -11,16 +16,10 @@
     font-size: 36px;
 }
 
-/* chaining selector */
-.num1.num3 {
-    font-size: 24px;
-}
-
-/* id selector*/
-#num4 {
+/* chain selectors*/
+.font-adjustment#num4 {
     background-color: #00504B;
     font-weight: bold;
-    font-size: 24px;
 }
 
 
